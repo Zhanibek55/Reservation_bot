@@ -44,7 +44,7 @@ git push -u origin main
 
 ```bash
 cd ~
-git clone https://github.com/ваш_пользователь/Reservation_bot.git
+git clone https://github.com/Zhanibek55/Reservation_bot.git
 ```
 
 ### Настройка виртуального окружения
